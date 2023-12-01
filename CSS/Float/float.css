@@ -1,0 +1,48 @@
+
+.box1 {
+    background-color: yellowgreen;
+    height: 200px;
+    width: 800px;
+    padding: 5px;
+}
+
+.box2 {
+    border: 5px solid black;
+    height: 300px;
+    width: 800px;
+
+}
+
+.box3 {
+    float: clear;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+}
+
+.float-left {
+    float: left;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+}
+
+
+.float-right {
+    /* float: right; */
+    background-color: grey;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+}
+
+.float-clear {
+    background-color:red;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+}
+
+

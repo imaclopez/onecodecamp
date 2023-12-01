@@ -1,0 +1,56 @@
+div {
+    height: 100px;
+    width: 100px;
+    border: 10px solid red;
+    padding: 5px;
+}
+
+.static {
+    position: static;
+    background-color: blue;
+    margin-bottom: 10px;
+}
+
+.relative {
+    position: relative;
+    background-color: yellow;
+    left: 100px;
+}
+
+.absolute {
+    position:absolute;
+    background-color: green;
+    top: 100px;
+    left: 100px;
+
+}
+
+div.fixed {
+    position:fixed;
+    background-color: pink;
+    margin-right: 10px;
+    right: 300px;
+    top: 100px;
+}
+
+.sticky {
+    position:sticky;
+    background-color: grey;
+    margin-right: 10px;
+
+}
+
+.float-left {
+    float: left;
+    background-color:blueviolet;
+}
+
+.float-right {
+    float: right;
+    background-color: grey;
+}
+
+.float-clear {
+    background-color:blanchedalmond;
+}
+

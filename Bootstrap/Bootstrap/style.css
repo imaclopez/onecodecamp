@@ -1,0 +1,32 @@
+.col-1 {
+    border: 1px solid orange;
+}
+
+.col{
+    border: 1px solid orange;
+}
+
+.col-3 {
+    border: 1px solid orange;
+}
+
+.col-6 {
+    border: 1px solid orange;
+}
+
+.col-4 {
+    border: 1px solid orange;
+}
+
+.main_column {
+    border: 1px solid orange;
+}
+
+
+.col-sm-6 {
+    border: 1px solid orange;
+}
+
+.nested_col  {
+    border: 1px solid orange;
+}

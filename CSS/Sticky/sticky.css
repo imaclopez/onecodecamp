@@ -1,0 +1,14 @@
+.box {
+    border: 2px solid black;
+    height: 200px;
+    Width: 200px;
+}
+
+.sticky-box {
+    position: sticky;
+    top:10px;
+}
+
+p {
+    font-size: 20px;
+}

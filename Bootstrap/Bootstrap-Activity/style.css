@@ -1,0 +1,92 @@
+.dropdown-item {
+
+    color: rgb(43,195,188) important;
+
+}
+
+
+#nav-tab {
+    background-color: rgb(43, 195, 188);
+    padding: 13px 30px 14px 60px;
+}
+
+.photo {
+    background-image: url("https://assets.bucketlistly.blog/sites/5adf778b6eabcc00190b75b1/content_entry5b155bed5711a8176e9f9783/5c4fbe2246025317508def41/files/nepal-everest-base-camp-everest-travel-photo-20190128094442660-main-image.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.part3{
+    margin: 0.5rem 3rem;
+}
+
+
+.title{
+
+    font-weight: 600;
+    font-size: 42px;
+    color: #464646;
+    background: none;
+    line-height: 1.1;
+    padding: 20px 0 20px;
+    margin: 0 0 10px 0;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.text {
+    text-align: center;
+    color: #999;
+}
+
+.text2{
+    color: #999;
+    font-size: 11px;
+}
+
+.col-sm-3 img {
+    display: inline-block
+}
+
+.col-sm-3{
+    
+    height: 260px;
+    margin-top: 3rem;
+}
+
+.feature1:hover h1,
+.feature1:hover p,
+.feature1:hover h2,
+.feature1:hover a {
+    color: rgb(43, 195, 188);
+    transition: color 0.3s ease;
+}
+
+.feature2:hover h1,
+.feature2:hover p,
+.feature2:hover h2,
+.feature2:hover a {
+    color: rgb(43, 195, 188);
+    transition: color 0.3s ease;
+}
+
+.feature3:hover h1,
+.feature3:hover p,
+.feature3:hover h2,
+.feature3:hover a {
+    color: rgb(43, 195, 188);
+    transition: color 0.3s ease;
+}
+
+.feature4:hover h1,
+.feature4:hover p,
+.feature4:hover h2,
+.feature4:hover a {
+    color: rgb(43, 195, 188);
+    transition: color 0.3s ease;
+}

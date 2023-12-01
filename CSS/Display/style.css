@@ -1,0 +1,17 @@
+ .block {
+    display: block;
+    background-color: blue;
+    width: 200px;
+ }
+
+.inline-block {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+} 
+
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
