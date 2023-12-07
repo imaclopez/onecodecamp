@@ -1,10 +1,37 @@
 
 
 let colors =["red","blue", "green"];
+console.log(colors);
 
 colors.push("black");
 
-colors.uns
+console.log(colors);
+
+index = colors.indexOf("blue")
+
+console.log(index);
+
+colors.splice(index,1)
+
+console.log(colors);
+
+indexGreen = colors.indexOf("green")
+console.log(indexGreen);
+
+
+indexRed = colors.indexOf("red")
+
+colors[indexRed] = "green-swap"
+colors[indexGreen] = "blue-swap"
+console.log(colors);
+
+
+
+
+
+
+
+
 
 /**
  Create an array and name it 'colors'
